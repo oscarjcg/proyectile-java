@@ -1,6 +1,6 @@
-# Simulacion de proyectiles
+# Projectile simulation
 
-**Programa**: https://github.com/oscarjcg/proyectile-java/tree/master/Application
+**Program**: https://github.com/oscarjcg/proyectile-java/tree/master/Application
 * **Windows**: Standalone
 * **Linux**: java -jar Aplicacion.jar
 
@@ -9,16 +9,16 @@
 	title="Preview" width="500"/>
 </p>
 
-**Descripción:** Juego de disparos con bolas
+**Description:** Shooting game with balls
 
 **Características**:
-* 'Lanzar': Disparar proyectil
-* 'Pausa': Pausar simulación
-* 'Borrar': Eliminar trayectoria
-* 'Mostrar rastro': Trayectoria
+* 'Lanzar': Shoot projectile
+* 'Pausa': Pause simulation
+* 'Borrar': Delete trayectory
+* 'Mostrar rastro': Trayectory
 * MVC
 
-**Entorno de desarrollo**:
-* **Sistema operativo:** Linux
+**Development environment**:
+* **OS:** Linux
 * **Java:** 1.8.0_121  
 * **Eclipse**: Neon
