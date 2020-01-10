@@ -1,6 +1,6 @@
 # Simulacion de proyectiles
 
-**Programa**: https://github.com/oscarjcg/ball-game-java/tree/master/Application
+**Programa**: https://github.com/oscarjcg/proyectile-java/tree/master/Application
 * **Windows**: Standalone
 * **Linux**: java -jar Aplicacion.jar
 
