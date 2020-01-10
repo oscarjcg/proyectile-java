@@ -11,7 +11,7 @@
 
 **Description:** Shooting game with balls
 
-**Características**:
+**Features**:
 * 'Lanzar': Shoot projectile
 * 'Pausa': Pause simulation
 * 'Borrar': Delete trayectory
